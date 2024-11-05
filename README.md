@@ -5,11 +5,11 @@
 <br>
 <br>
 <h1>Installation</h1>
-<fieldset>
+
 <ul>
   <li>git clone https://github.com/Codingwith-noah/H4CKFU1-Multitool-for-Kali.git<li>
   <li>chmod +x multitool.sh</li>
   <li>./multitool.sh</li>
   <li>After the third step, it should be running. Post any concerns in the issues tab</li>
 </ul>
-</fieldset>
+
