@@ -1,6 +1,6 @@
 <h1> Hello! And welcome to H4CKFU1 </h1>
 <fieldset>
-<p>H4CKFU1 is a project founded on November 5th, 2024. It is a multitool for the linux terminal</p>
+<p>H4CKFU1 is a project founded on November 5th, 2024. It is a multitool for the linux terminal.</p>
 </fieldset>
 <br>
 <br>
